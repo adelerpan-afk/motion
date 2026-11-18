@@ -12,6 +12,9 @@ Buka `index.html` di browser modern. Aplikasi menggunakan path relatif dan tidak
 - Prompt final meminta satu file HTML mandiri.
 - Tidak meminta pembuatan narasi, TTS, musik, atau sound effect; hasil HTML diminta menyediakan tombol **Load Narasi** dan sinkronisasi animasi ke audio yang dipilih.
 - Pilihan pergerakan kamera masuk ke arahan prompt.
+- Checklist subtitle membuka pengaturan tipe standar/per kata, posisi, tipografi, warna, latar, dan animasi.
+- Preset Low-Poly memiliki pengaturan tinggi tiang flag dan instruksi `FLAG_SPECS`.
+- Prompt meminta preview HTML final menyediakan modal ekspor MP4 dengan pilihan resolusi/FPS dan penyimpanan bertahap melalui `streamToFolder()`.
 
 ## Struktur
 
