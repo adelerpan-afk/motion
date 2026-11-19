@@ -1,0 +1,12 @@
+{
+  "styles": 36,
+  "shared_stage_chars": 39699,
+  "shared_sound_chars": 22836,
+  "low_poly_style_chars": 46525,
+  "all_style_suffix_chars": 1567008,
+  "original_all_refs_chars": 3817520,
+  "original_low_poly_reference_chars": 108312,
+  "reconstructed_full_low_poly_reference_chars": 109060,
+  "low_poly_compact_prompt_chars_tested": 37421,
+  "low_poly_full_prompt_chars_tested": 118913
+}
